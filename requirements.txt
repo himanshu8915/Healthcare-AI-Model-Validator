@@ -17,7 +17,7 @@ langchain>=0.2.12
 langchain-community>=0.2.11
 langchain-core>=0.2.29
 langchain-experimental>=0.0.64
-
+langchain_google_genai
 
 # ---------------- Optional: Viz & Metrics ----------------
 plotly>=5.22.0
